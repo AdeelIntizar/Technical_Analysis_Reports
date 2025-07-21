@@ -355,8 +355,6 @@ const getNextCards = (lastVisible) => {
 3. **Implement analytics infrastructure** for user behavior tracking
 4. **Develop MVP marketing strategy** and launch plan
 
-### Long-term Potential
-With proper execution, Winc Cards Web could capture **significant market share** in the digital greeting card space, potentially reaching **$10M+ ARR within 3-5 years**. The real-time communication features provide a strong moat against traditional competitors and position the product for the future of digital interaction.
 
 ---
 
